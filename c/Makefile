@@ -1,6 +1,6 @@
 # Define the compiler and the target executable
 CC = gcc
-TARGET = cube
+TARGET = cube.out
 
 # Rule to build the target executable
 $(TARGET): main.o
